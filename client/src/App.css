@@ -1,0 +1,16 @@
+
+@font-face {
+  font-family: "varino-bold-regular-maisfontes";
+  src: url("./fonts/varino-bold-regular.ttf");
+}
+
+
+.hushtalk {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #ffffff;
+  background-color: #091d2b;
+  height: auto;
+}
